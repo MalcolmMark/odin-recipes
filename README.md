@@ -1,1 +1,3 @@
 # odin-recipes
+## The current project is about Git Basics, Simple Html Fundamentals. 
+In my recent project, I focused on Git basics, simple HTML fundamentals, and setting up my personal computer for development purposes. I learned how to use the Git CLI, write better commit messages, and implement basic Git and version control. Additionally, I explored HTML and grasped concepts like linking pages and understanding relative versus absolute links. I also adopted the Pomodoro method using the Tomato Timer tool from Odin documentation, which significantly improved my concentration. Overall, this project enhanced my Git skills, HTML knowledge, and productivity techniques.
